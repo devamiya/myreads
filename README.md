@@ -15,7 +15,7 @@ Use NPM to install the dependencies.
 ```
 $ npm install
 ```
-
+ 
 ## Usage
 
 The project can be run with
