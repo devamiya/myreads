@@ -60,7 +60,6 @@ class App extends React.Component {
     BooksAPI.getAll()
       .then(books => {
         this.setState({ myBooks: books });
-        console.log(this.state)
       })
       .catch(err => {
         console.log(err);
