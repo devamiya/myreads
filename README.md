@@ -9,7 +9,7 @@ It also allow you to search for books based on title and author.
 
 ## Installation
 
-Clone the repository, change directories, and use NPM to install the dependencies.
+Use NPM to install the dependencies.
 
 ```
 $ npm install
