@@ -1,11 +1,12 @@
 # MyReads
 
-This is a simple apllication that allows you to place books in one of three shelves.
-It also allow you to search for books based on title and author.
+This is a simple application that allows you to place books in one of three shelves.
 
 - Currently Reading
 - Want to Read
 - Read
+
+It also allow you to search for books based on title and author.
 
 ## Installation
 
